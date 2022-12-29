@@ -1,0 +1,7 @@
+<!--
+digunakan untuk menampilkan teks yang akan dimasukan pada aplikasi android.
+  -->
+<resources>
+    <string name="app_name">MVVM News</string>
+    <string name="save">Save</string>
+</resources>
